@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Decodertec/LeetCode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Decodertec/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Decodertec/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2540-minimum-common-value](https://github.com/Decodertec/LeetCode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Decodertec/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2540-minimum-common-value](https://github.com/Decodertec/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -40,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/Decodertec/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+## Hash Table
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/Decodertec/LeetCode/tree/master/2540-minimum-common-value) |
+## Binary Search
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/Decodertec/LeetCode/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
