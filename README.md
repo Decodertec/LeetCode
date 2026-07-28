@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Decodertec/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Decodertec/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Decodertec/LeetCode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Decodertec/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Decodertec/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Decodertec/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Decodertec/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Decodertec/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -41,13 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Decodertec/LeetCode/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Decodertec/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Decodertec/LeetCode/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/Decodertec/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Decodertec/LeetCode/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/Decodertec/LeetCode/tree/master/2540-minimum-common-value) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Decodertec/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
