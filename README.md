@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Decodertec/LeetCode/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/Decodertec/LeetCode/tree/master/0520-detect-capital) |
+| [2390-removing-stars-from-a-string](https://github.com/Decodertec/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Decodertec/LeetCode/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/Decodertec/LeetCode/tree/master/0739-daily-temperatures) |
+| [2390-removing-stars-from-a-string](https://github.com/Decodertec/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Decodertec/LeetCode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Decodertec/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
