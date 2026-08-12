@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Decodertec/LeetCode/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/Decodertec/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0520-detect-capital](https://github.com/Decodertec/LeetCode/tree/master/0520-detect-capital) |
 | [2390-removing-stars-from-a-string](https://github.com/Decodertec/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Decodertec/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Decodertec/LeetCode/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/Decodertec/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
