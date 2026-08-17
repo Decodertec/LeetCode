@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Decodertec/LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Decodertec/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Decodertec/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Decodertec/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Decodertec/LeetCode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Decodertec/LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Decodertec/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Decodertec/LeetCode/tree/master/0268-missing-number) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Decodertec/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Decodertec/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
