@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Decodertec/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Decodertec/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Decodertec/LeetCode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Decodertec/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Decodertec/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Decodertec/LeetCode/tree/master/0739-daily-temperatures) |
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Decodertec/LeetCode/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Decodertec/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Decodertec/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Decodertec/LeetCode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Decodertec/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Decodertec/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Decodertec/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
