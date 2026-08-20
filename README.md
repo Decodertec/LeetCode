@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Decodertec/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Decodertec/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Decodertec/LeetCode/tree/master/2540-minimum-common-value) |
+| [4024-nearest-available-drone](https://github.com/Decodertec/LeetCode/tree/master/4024-nearest-available-drone) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Decodertec/LeetCode/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [4024-nearest-available-drone](https://github.com/Decodertec/LeetCode/tree/master/4024-nearest-available-drone) |
 <!---LeetCode Topics End-->
