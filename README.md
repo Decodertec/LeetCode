@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Decodertec/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Decodertec/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Decodertec/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Decodertec/LeetCode/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Decodertec/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0520-detect-capital](https://github.com/Decodertec/LeetCode/tree/master/0520-detect-capital) |
 | [2390-removing-stars-from-a-string](https://github.com/Decodertec/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -127,4 +128,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Decodertec/LeetCode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Decodertec/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Decodertec/LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Decodertec/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
